@@ -1,18 +1,17 @@
-#PiBOTi
-##Links
-# Automatas
+# PiBOTi
+## Links
 -(#)
 -(#)
 
-##Objetivo
+## Objetivo
 
-##Goals
+## Goals
 
-##Non-Goals
+## Non-Goals
 
-##Backgroudn
+## Backgroudn
 
-##Overview
+## Overview
 
-##Background
+## Background
 
